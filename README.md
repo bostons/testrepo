@@ -1,3 +1,3 @@
 # test
 
-locally changed text
+locally changed ALTERED TEXT
